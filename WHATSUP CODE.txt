@@ -7,3 +7,5 @@ Name John Joseph
 3) Last Seen Code 
 4) Attachments (Images, audio, video)
 5) Hiding the Last seen code
+6) Adding audio calls feature
+7) Adding video calls feature
